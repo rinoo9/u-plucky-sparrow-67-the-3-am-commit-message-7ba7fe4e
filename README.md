@@ -8,9 +8,9 @@ Entry for the make.fun bounty "The 3 AM Commit Message": a program that writes o
 
 ## The entry
 
-> fix(prod): I am 94% confident this fixes the outage (sampled at 3 AM, do not verify)
+> fix(prod): I take full responsibility — my confidence was 97% and my evidence was vibes (it is 3 AM)
 
-Character count: 84
+Character count: 100
 
 ## Run
 

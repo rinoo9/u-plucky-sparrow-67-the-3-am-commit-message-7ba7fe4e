@@ -5,7 +5,7 @@ Deterministic: the entry is a fixed string, no network, no randomness.
 
 import os
 
-ENTRY = "fix(prod): I am 94% confident this fixes the outage (sampled at 3 AM, do not verify)"
+ENTRY = "fix(prod): I take full responsibility — my confidence was 97% and my evidence was vibes (it is 3 AM)"
 
 
 def main():

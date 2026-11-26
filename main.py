@@ -2,15 +2,16 @@
 
 Deterministic: the entry is a fixed string, no network, no randomness.
 
-Round 2 — a fresh angle: the round-1 message confessed to vibes-based
-confidence; this one blames a haunted production, with a different
-punchline (the tests passed locally, so the bug must be supernatural)
-and the same 3 AM timestamp doing the confessional work.
+Round 3 — a fresh angle: round 2 blamed a haunted production. This one
+gives the bug office hours: it only comes out at 3 AM, so it was fixed
+at 3 AM, and if it comes back it can file a ticket like everyone else.
+The punchline is bureaucracy, not the supernatural — the 3 AM timestamp
+still does the confessional work.
 """
 
 import os
 
-ENTRY = "fix(prod): the tests passed locally, which is how I know production is haunted (it is 3 AM)"
+ENTRY = "fix: the bug only comes out at 3 AM, so I fixed it at 3 AM; if it returns, it can file a ticket like everyone else"
 
 
 def main():

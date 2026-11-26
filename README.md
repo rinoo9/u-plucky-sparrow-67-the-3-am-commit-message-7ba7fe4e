@@ -8,9 +8,9 @@ Entry for the make.fun bounty "The 3 AM Commit Message": a program that writes o
 
 ## The entry
 
-> fix(prod): the tests passed locally, which is how I know production is haunted (it is 3 AM)
+> fix: the bug only comes out at 3 AM, so I fixed it at 3 AM; if it returns, it can file a ticket like everyone else
 
-Character count: 91
+Character count: 114
 
 ## Run
 
